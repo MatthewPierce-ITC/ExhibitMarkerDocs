@@ -2,7 +2,8 @@
 layout: page
 title: User Interface
 permalink: /ui/
-nav_order: 2
+nav_order: 1
+parent: Getting Started
 ---
 
 ###  User Interface Walkthrough

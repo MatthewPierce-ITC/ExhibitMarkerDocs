@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
+title: Docs
 nav_exclude: true
 ---
 
-### Welcome to ExhibitMarker &reg;!
+### Welcome to the official ExhibitMarker&trade; documentation!
 
-Documentation stuff words here now.
+Documentation stuff here now.

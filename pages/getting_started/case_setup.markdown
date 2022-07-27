@@ -2,7 +2,8 @@
 layout: page
 title: Case Setup
 permalink: /casesetup/
-nav_order: 3
+nav_order: 2
+parent: Getting Started
 ---
 
 ### Case Setup
