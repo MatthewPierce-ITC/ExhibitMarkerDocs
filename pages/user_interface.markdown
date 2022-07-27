@@ -2,7 +2,7 @@
 layout: page
 title: User Interface
 permalink: /ui/
-nav_order: 1
+nav_order: 2
 ---
 
 ###  User Interface Walkthrough
