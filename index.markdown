@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+### Welcome to ExhibitMarker!
+
+Documentation stuff words here now.
