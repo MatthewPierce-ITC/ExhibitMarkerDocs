@@ -36,6 +36,7 @@ remote_theme: just-the-docs/just-the-docs
 #theme: just-the-docs
 color_scheme: dark
 logo: "EM_logo_v03_orig.png"
+
 plugins:
   - jekyll-feed
 

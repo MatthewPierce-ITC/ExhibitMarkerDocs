@@ -6,6 +6,9 @@ nav_order: 1
 parent: Getting Started
 ---
 
-###  User Interface Walkthrough
+###  User Interface 
 
-Screen grabs, animated GIFs, descriptions...
+<br>
+
+Default View
+> ![Screen grag of Main User Interface](/pages/getting_started/user_interface/user_interface_assets/UserInterface_05_InitialView.png)

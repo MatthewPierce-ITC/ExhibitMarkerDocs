@@ -8,5 +8,3 @@ nav_exclude: true
 ---
 
 ### Welcome to the official ExhibitMarker&trade; documentation!
-
-Documentation stuff here now.
