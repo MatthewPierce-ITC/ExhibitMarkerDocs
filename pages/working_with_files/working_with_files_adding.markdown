@@ -14,7 +14,7 @@ The drag-and-drop method is generally the easiest way to load files into Exhibit
 
 You may cancel the operation at any time during the loading process.  Once the process is complete, you may select files for viewing.
 
-> ![Animated Gif drag-and-drop file loading](/pages//working_with_files/working_with_files_assets/working_with_files_02_DragAndDropFiles.gif)
+> ![Animated Gif drag-and-drop file loading](working_with_files_assets/working_with_files_02_DragAndDropFiles.gif)
 
 ### Folder Selection
 
