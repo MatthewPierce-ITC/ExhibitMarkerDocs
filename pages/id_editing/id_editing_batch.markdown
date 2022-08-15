@@ -32,10 +32,4 @@ With an exhibit selected, clicking the Preview New ID button will generate an ex
 
 Once statisifed with the search and replace parameters, click the Apply button.  A pop-up winidow will indicate when the operation is complete.  The resulting Exhibit IDs should now look like this:
 
-```
-US Ex. 0001
-US Ex. 0002
-US Ex. 0003
-US Ex. 0004
-US Ex. 0005
-```
+> ![Screen Grab - Remove Everythying After](id_editing_assets/idedit_05_result.png)
