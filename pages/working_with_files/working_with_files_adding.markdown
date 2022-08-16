@@ -18,3 +18,14 @@ You may cancel the operation at any time during the loading process.  Once the p
 
 ### Folder Selection
 
+To add files via the folder selection method, click View on the menu bar and select Import Folder.
+
+> ![Screen Grab - Menu bar folder import](working_with_files_assets/working_with_files_05_importfolder.png)
+
+If the documes are further organized into sub-folders, the contents of the topmost folder and all sub-folders can be imported at one time by turning on the Include Sub Folders on Import option.
+
+> ![Screen Grab - Menu bar folder import](working_with_files_assets/working_with_files_06_importsubfolders.png)
+
+With this option on, ExhibitMarker will cycle through the selected folder and all sub-folders contained therein and import every PDF file that is located.
+
+> ![Screen Grab - Menu bar folder import](working_with_files_assets/working_with_files_07_subfoldercontents.png)
