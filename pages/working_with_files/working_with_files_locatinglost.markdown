@@ -18,7 +18,7 @@ Additionally, the user my manually initiate file locaiton verification via the P
 
 To recitfy the situation, select and right-click the missing files in the PDF Files list.  Choose the Locate Missing Files option, which will bring up a Folder selection dialog.
 
-> > ![Screen Grab - Locate Missing Files Folder Dialog](working_with_files_assets/working_with_files_locatinglost_03_selectnewlocationfolder.png)
+> ![Screen Grab - Locate Missing Files Folder Dialog](working_with_files_assets/working_with_files_locatinglost_03_selectnewlocationfolder.png)
 
 After selecting the new location where the files are currently located, ExhibitMarker will verify that the missing files are indeed there and update the database accordingly.
 
@@ -30,4 +30,4 @@ If all or some of the files are not in the selected location, ExhibitMarker&trad
 
 Once complete, each entry in the PDF Files list will be updated to remove the missing highlight indicator and exclimation points.
 
-> > ![Screen Grab - All Files Located](working_with_files_assets/working_with_files_locatinglost_07_foundpdfs.png)
+> ![Screen Grab - All Files Located](working_with_files_assets/working_with_files_locatinglost_07_foundpdfs.png)
