@@ -26,6 +26,6 @@ If the documes are further organized into sub-folders, the contents of the topmo
 
 > ![Screen Grab - Menu bar folder import](working_with_files_assets/working_with_files_06_importsubfolders.png)
 
-With this option on, ExhibitMarker will cycle through the selected folder and all sub-folders contained therein and import every PDF file that is located.
+With this option on, ExhibitMarker&trade; will cycle through the selected folder and all sub-folders contained therein and import every PDF file that is located.
 
 > ![Screen Grab - Menu bar folder import](working_with_files_assets/working_with_files_07_subfoldercontents.png)

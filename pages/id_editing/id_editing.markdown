@@ -9,7 +9,7 @@ has_toc: false
 
 ### ID Editing
 
-ExhibitMarker brands and stampes each exhibit according to the value present in the ExhibitID field.
+ExhibitMarker&trade; brands and stampes each exhibit according to the value present in the ExhibitID field.
 
 When exhibits are loaded via drag-and-drop or folder import, the ExhbitID field is updated with the same value as the Filename, minus the ".pdf" extension.  Often the exhibit files are named only with their respective IDs, but occasionally there is extra information about the exhibit's contents.
 

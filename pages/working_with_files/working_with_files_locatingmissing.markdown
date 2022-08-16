@@ -20,7 +20,7 @@ To recitfy the situation, select and right-click the missing files in the PDF Fi
 
 > ![Screen Grab - Locate Missing Files Folder Dialog](working_with_files_assets/working_with_files_locatingmissing_03_selectnewlocationfolder.png)
 
-After selecting the new location where the files are currently located, ExhibitMarker will verify that the missing files are indeed there and update the database accordingly.
+After selecting the new location where the files are currently located, ExhibitMarker&trade; will verify that the missing files are indeed there and update the database accordingly.
 
 > > ![Screen Grab - All Files Located](working_with_files_assets/working_with_files_locatingmissing_04_allfileslocatedmessage.png)
 
