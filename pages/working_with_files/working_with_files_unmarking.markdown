@@ -10,16 +10,16 @@ parent: Working With Files
 
 When a PDF files is processed via Stamping or Branding, the entry in the PDF Files window is updated to show a checkmark in the respective Stamp and/or Brand column, and the entire entry is highlighted.
 
-[screen grab]
+> ![Screen Grab - PDF File List with Checkmarks](working_with_files_assets/working_with_files_unmarking_01_listofmarkeddocs.png)
 
-There are times when you may need to re-stamp or re-brand a PDF files.  To start the process, select the file or files in the PDF Files list, then hover over the selection and right-click on the selected items.  This will bring up "Revert to Original" in the right-click menu.
+There are times when you may need to re-stamp or re-brand a PDF files.  To start the process, select the file or files in the PDF Files list, then hover over the selection and right-click on the selected items.  This will bring up "Revert Selected to Original" in the right-click menu.
 
-[animated gif]
+> ![Animation - Revert to Original operation](working_with_files_assets/working_with_files_unmarking_02_unmarkoperation.gif)
 
-You will then be prompted to confirm the operation, and ExhibitMarker&trade; will then update the database to point at the Original PDF files that were loaded into the project.
+You will be prompted to confirm the operation and ExhibitMarker&trade; will update the database so the original PDF files that were loaded into the project are displayed.
 
-[screen grab]
+> > ![Screen Grab - Confirm Revert to Original](working_with_files_assets/working_with_files_unmarking_03_confirmunmark.png)
 
-If the original files are no longer at that location, the entries will be updated with an exclamation point and yellow highlighting.  Please see [Locating Lost Files](working_with_files_locatinglost.markdown) to resolve this issue.
+If the original files are no longer at that location the entries will be updated with an exclamation point and yellow highlighting to indicate that they are missing.  See [Locating Missing Files](working_with_files_locatingmissing.markdown) to resolve this issue.
 
-[screen grab]
+> ![Screen Grab - Missing File Indicator](working_with_files_assets/working_with_files_locatingmissing_01_lostpdfs.png)
