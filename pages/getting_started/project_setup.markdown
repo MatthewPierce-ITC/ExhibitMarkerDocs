@@ -21,3 +21,7 @@ Once a name, and optional matter number, is entered you are then asked to select
 > ![Screen grab of User Interface name and ID](user_interface/user_interface_assets/UserInterface_03_NameAndID.png)
 
 > > ![screen grab of User Interface save location](user_interface/user_interface_assets/UserInterface_04_ProjectDatabaseSaveLocation.png)
+
+Now the new project is ready to accept PDFs and design Stamps and Brands.
+
+> ![Screen Grab - Initial New Project View with Stamp Editor](user_interface/user_interface_assets/UserInterface_Menu_10_NewProjectReady.png)
