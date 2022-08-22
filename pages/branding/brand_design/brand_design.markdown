@@ -34,10 +34,11 @@ The text of the brand has both static and dynamic elements, depending on the key
 
 All keywords must appear in ALL-CAPS in order for ExhibitMarker&trade; to identify and replace the values during the branding process.
 
-EXHIBITID - Value present for each document in the Exhibit ID field
-CURRENTPAGE - Physical page number of the document that is receiving the brand
-TOTALPAGES - Total number of physical pages in the document
-FILENAME - Original file name value present in the PDF Files list for the document
+
+ - EXHIBITID: Value present for each document in the Exhibit ID field
+ - CURRENTPAGE: Physical page number of the document that is receiving the brand
+ - TOTALPAGES: Total number of physical pages in the document
+ - FILENAME: Original file name value present in the PDF Files list for the document
 
 As the brand text is changed, the Example section of the Brand design tab will automatically update to reflect the currently selected options.
 
