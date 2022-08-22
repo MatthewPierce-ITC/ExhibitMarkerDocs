@@ -10,7 +10,7 @@ parent: Branding
 
 The brand editor can be accessed via the Menu bar by selecting Brand Editor
 
-> ![Screen Grab - Brand Editor Menu Bar](../../getting_started/user_interface/user_interface_assets/UserInterface_07_BrandDesignerTab.png)
+> ![Screen Grab - Brand Editor Menu Bar](../../getting_started/user_interface/user_interface_assets/UserInterface_Menu_06_BrandEditor.png)
 
 ### Placement
 
