@@ -2,7 +2,7 @@
 layout: page
 title: Locating Missing Files
 permalink: /locatingmissingfiles/
-nav_order: 4
+nav_order: 5
 parent: Working With Files
 ---
 
