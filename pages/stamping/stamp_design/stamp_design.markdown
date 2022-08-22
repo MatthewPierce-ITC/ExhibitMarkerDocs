@@ -2,9 +2,8 @@
 layout: page
 title: Stamp Design
 permalink: /stampdesign/
-nav_order: 5
-has_children: true
-has_toc: false
+nav_order: 1
+parent: Stamping
 ---
 
 ### Stamp Design

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Stamping Process
-permalink: /stampingprocess/
+title: Stamp Application
+permalink: /stampapplication/
 nav_order: 2
 parent: Stamping
 ---
 
-### Stamping Process
+### Stamp Application

@@ -4,7 +4,7 @@ title: Stamping
 permalink: /stamping/
 nav_order: 8
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
-### Stamping Exhibits
+### Stamping PDF Documents
