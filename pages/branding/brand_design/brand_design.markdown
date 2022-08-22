@@ -8,7 +8,11 @@ parent: Branding
 
 ### Brand Design
 
-#### Placement
+The brand editor can be accessed via the Menu bar by selecting Brand Editor
+
+> ![Screen Grab - Brand Editor Menu Bar](../../getting_started/user_interface/user_interface_assets/UserInterface_07_BrandDesignerTab.png)
+
+### Placement
 
 ExhbitMarker&trade; allows the user to select one of six zones to place the brand when applying to document pages.
 
@@ -22,7 +26,7 @@ The text is automatically adjusted for left or right justification, or centered,
 
  > ![Screen Grab - Brand Position Padding](brand_design_assets/brand_design_01_BrandPadding.png)
 
-#### Keywords
+### Keywords
 
 The text of the brand has both static and dynamic elements, depending on the keywords that you select during the design phase.  There are several stock brands available with the drop-down selection box.
 
@@ -39,22 +43,19 @@ As the brand text is changed, the Example section of the Brand design tab will a
 
 > ![Animation - Selection of different default Brands](brand_design_assets/brand_design_04_BrandOptionSelection.gif)
 
-#### Additional Formatting
+### Additional Formatting
 
 After the text of the brand has been set, the font, font size and color of the brand can be changed.
 
 ExhibitMarker&trade; automatically adds space to the top or bottom of the page to be branded (based on selected brand position) so that none of the text will overlap anything on the original document.  The amount of space added is determined by the size of the brand text, based on the content and font size.
 
+There are instances where the document to be branded is oversized, or undersized, and the selected font size will not work well.  For each page that is branded, ExhibitMarker&trade; adjusts the size of the brand for these pages based on a percentage increase or decrease that coencides with the difference of the overall page size from a standard 8.5 x 11 page.
+
 Zero padding may also be added to the page number of the brand, if it appears in the selected brand text, based on the value selected.
 
 > ![Animation - Add zero padding to page numbers](brand_design_assets/brand_design_07_ZeroPadPageNumber.gif)
 
-#### Preview
-
-At any point during the design phase of the brand clicking Generate Preview will apply the current state of the brand to the currently selected exhibit.  This is temporary and allows the user to zoom in and out, review, and fine tune the brand to make sure that the end product appears as intended.
-
-
-#### Saving Brand Design
+### Saving Brand Design
 
 During the design phase, anytime that the design of the brand is altered the Save button changes to red to indicate that the design needs to be saved.  The changes can be saved with this button, and the currently selected brand will be overwritten with the new design.
 
