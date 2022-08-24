@@ -11,4 +11,4 @@ parent: Getting Started
 <br>
 
 Default View
-> ![Screen grab of Main User Interface](user_interface_assets/UserInterface_05_InitialView.png)
+> ![Screen grab of Main User Interface](../assets/user_interface_assets/UserInterface_05_InitialView.png)
