@@ -22,7 +22,7 @@ To add files via the folder selection method, click View on the menu bar and sel
 
 > ![Screen Grab - Menu bar folder import](../../assets/working_with_files_assets/working_with_files_05_importfolder.png)
 
-If the documes are further organized into sub-folders, the contents of the topmost folder and all sub-folders can be imported at one time by turning on the Include Sub Folders on Import option.
+If the documents are further organized into sub-folders, the contents of the topmost folder and all sub-folders can be imported at one time by turning on the Include Sub Folders on Import option.
 
 > ![Screen Grab - Menu bar folder import](../../assets/working_with_files_assets/working_with_files_06_importsubfolders.png)
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Edit a Stamp Design
+title: Edit Stamp Design
 permalink: /editstampdesign/
 nav_order: 2
-parent: Stamp Design
+parent: Stamping
 ---
 
 ### Edit a Stamp Design
