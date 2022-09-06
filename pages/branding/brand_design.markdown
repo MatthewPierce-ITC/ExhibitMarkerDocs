@@ -10,7 +10,8 @@ parent: Branding
 
 The brand editor can be accessed via the Menu bar by selecting Brand Editor
 
-> ![Screen Grab - Brand Editor Menu Bar](../../getting_started/user_interface/user_interface_assets/UserInterface_Menu_06_BrandEditor.png)
+> ![Screen Grab - Brand Editor Menu Bar](../../assets/user_interface_assets/UserInterface_Menu_06_BrandEditor.png)
+
 
 #### <u><b>Placement</b></u>
 
@@ -20,17 +21,17 @@ ExhbitMarker&trade; allows the user to select one of six zones to place the bran
 |:-------------|:-----:|-----------:|
 |__Bottom Left__ | __Bottom Center__ | __Bottom Right__ |
 
-> ![Screen Grab - Brand Zone Selection](brand_design_assets/brand_design_01_BrandZonePosition.png)
+> ![Screen Grab - Brand Zone Selection](../../assets/brand_design_assets/brand_design_01_BrandZonePosition.png)
 
 The text is automatically adjusted for left or right justification, or centered, depending on the brand location selected.  There is also an option to increase the horizontal and Vertical padding for the brand.
 
- > ![Screen Grab - Brand Position Padding](brand_design_assets/brand_design_01_BrandPadding.png)
+ > ![Screen Grab - Brand Position Padding](../../assets/brand_design_assets/brand_design_01_BrandPadding.png)
 
 #### <u><b>Keywords</b></u>
 
 The text of the brand has both static and dynamic elements, depending on the keywords that you select during the design phase.  There are several stock brands available with the drop-down selection box.
 
-> ![Screen Grab - Stock Brand Text Options](brand_design_assets/brand_design_03_BrandStockKeywordOptions.png)
+> ![Screen Grab - Stock Brand Text Options](../../assets/brand_design_assets/brand_design_03_BrandStockKeywordOptions.png)
 
 All keywords must appear in ALL-CAPS in order for ExhibitMarker&trade; to identify and replace the values during the branding process.
 
@@ -42,7 +43,7 @@ All keywords must appear in ALL-CAPS in order for ExhibitMarker&trade; to identi
 
 As the brand text is changed, the Example section of the Brand design tab will automatically update to reflect the currently selected options.
 
-> ![Animation - Selection of different default Brands](brand_design_assets/brand_design_04_BrandOptionSelection.gif)
+> ![Animation - Selection of different default Brands](../../assets/brand_design_assets/brand_design_04_BrandOptionSelection.gif)
 
 #### <u><b>Additional Formatting</b></u>
 
@@ -54,14 +55,14 @@ There are instances where the document to be branded is oversized, or undersized
 
 Zero padding may also be added to the page number of the brand, if it appears in the selected brand text, based on the value selected.
 
-> ![Animation - Add zero padding to page numbers](brand_design_assets/brand_design_07_ZeroPadPageNumber.gif)
+> ![Animation - Add zero padding to page numbers](../../assets/brand_design_assets/brand_design_07_ZeroPadPageNumber.gif)
 
 #### <u><b>Save Brand Design</b></u>
 
 During the design phase, anytime that the design of the brand is altered the Save button changes to red to indicate that the design needs to be saved.  The changes can be saved with this button, and the currently selected brand will be overwritten with the new design.
 
-> ![Screen Grab - Save Brand Design Indicator](brand_design_assets/brand_design_05_SaveBrand.png)
+> ![Screen Grab - Save Brand Design Indicator](../../assets/brand_design_assets/brand_design_05_SaveBrand.png)
 
 Alternatively, the current brand design can be saved with a new name by clicking the Save As button just to the right of the Save buttn.  This will bring up a dialog box so that a new brand  name can be entered and the design saved.
 
-> ![Screen Grab - Save Brand Design As](brand_design_assets/brand_design_06_SaveAsNewBrand.png)
+> ![Screen Grab - Save Brand Design As](../../assets/brand_design_assets/brand_design_06_SaveAsNewBrand.png)
