@@ -14,7 +14,7 @@ Rather than building a Stamp from scratch, ExhibitMarker&trade; provides you wit
 
 It is good practice to name the stamp with something descriptive, in this instance we are making a Defendant Exhibit stamp.
 
-By default, the Standard 1.25 inch stamp size is selected.  You may choose to start with a smaller or larger template.  This does not limit you to just this single size.  During the Stamp Applicaiton process, you can manually change the size of any stamp as needed.  See [Changing Stamp Size](../stamping/stamping_process.markdown) for more details.
+By default, the Standard 1.25 inch stamp size is selected.  You may choose to start with a smaller or larger template.  This does not limit you to just this single size.  During the Stamp Applicaiton process, you can manually change the size of any stamp as needed.  See [Changing Stamp Size](../stamping/stamping_process.markdown#resize-a-stamp) for more details.
 
 > ![Screen Grab -  Set Stamp Name and Size](../../assets/stamp_design_assets/stampTemplate_02_stampNameAndSize.png)
 
