@@ -20,9 +20,11 @@ Selecting "Create New Project" displays the Project naming window, as seen below
 
  ![test screen grab](../../assets/user_interface_assets/UserInterface_02_CreateNewProject.png)
 
-Once a name, and optional matter number, is entered you are then asked to select a save location for the project database.  Note the location of this file, as it will be necessary to navigate the application to this directory when you open ExhibitMarker&trade; in the future to access these files.
+Once a name, and optional matter number, is entered you are then asked to select a save location for the project database.  
 
 > ![Screen grab of User Interface name and ID](../../assets/user_interface_assets/UserInterface_03_NameAndID.png)
+
+Note the location of this file, as it will be necessary to navigate the application to this directory when you open ExhibitMarker&trade; in the future to access these files.
 
 > > ![screen grab of User Interface save location](../../assets/user_interface_assets/UserInterface_04_ProjectDatabaseSaveLocation.png)
 
