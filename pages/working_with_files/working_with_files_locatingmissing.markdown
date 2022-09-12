@@ -8,19 +8,19 @@ parent: Working With Files
 
 ### Locating Files
 
-After the project is created and files are added, there may be instances where some or all of the files are moved.  Each time ExhibitMarker&trade; opens a project it checks all the individual file paths for each PDF that is currently loaded.  If a file is not present at the recorded location, ExhibitMarker&trade; will alert the user by highlighting the file in yellow and placing exclimation points in the Status columns for the PDF.
+After the project is created and files are added, there may be instances where some or all of the files are moved.  Each time ExhibitMarker&trade; opens a project it checks all the individual file paths for each PDF that is currently loaded.  If a file is not present at the recorded location, ExhibitMarker&trade; will alert the user by highlighting the file in yellow and placing exclamation points in the Status columns for the PDF.
 
 > ![Screen Grab - Missing Exhibits](../../assets/working_with_files_assets/working_with_files_locatingmissing_01_lostpdfs.png)
 
 #### __<u>Verify File Locations</u>__
 
-Additionally, the user my manually initiate file locaiton verification via the Project menu by selecting Verify File Locations.
+Additionally, the user my manually initiate file location verification via the Project menu by selecting Verify File Locations.
 
 > ![Screen Grab - Missing Exhibits](../../assets/working_with_files_assets/working_with_files_locatingmissing_06_projectmenuverifylocations.png)
 
 #### __<u>Locate Missing Files</u>__
 
-To recitfy the situation, select and right-click the missing files in the PDF Files list.  Choose the Locate Missing Files option, which will bring up a Folder selection dialog.
+To rectify the situation, select and right-click the missing files in the PDF Files list.  Choose the Locate Missing Files option, which will bring up a Folder selection dialog.
 
 > ![Screen Grab - Locate Missing Files Folder Dialog](../../assets/working_with_files_assets/working_with_files_locatingmissing_03_selectnewlocationfolder.png)
 
@@ -32,6 +32,6 @@ If all or some of the files are not in the selected location, ExhibitMarker&trad
 
 > > ![Screen Grab - All Files Located](../../assets/working_with_files_assets/working_with_files_locatingmissing_05_somefileslocated.png)
 
-Once complete, each entry in the PDF Files list will be updated to remove the missing highlight indicator and exclimation points.
+Once complete, each entry in the PDF Files list will be updated to remove the missing highlight indicator and exclamation points.
 
 > ![Screen Grab - All Files Located](../../assets/working_with_files_assets/working_with_files_locatingmissing_07_foundpdfs.png)

@@ -26,10 +26,10 @@ US Ex. 0005 - Microsoft's Share of the Browser Market Compared to Netscape's Sha
 
 For the Action option, select **Remove Everything After, including search text**
 
-> ![Screen Grab - Remove Everythying After](../../assets/id_editing_assets/idedit_04_removeeverythingincluding.png)
+> ![Screen Grab - Remove Everything After](../../assets/id_editing_assets/idedit_04_removeeverythingincluding.png)
 
-With an exhibit selected, clicking the Preview New ID button will generate an example of what the new Exhbit IDs will look like.  It is highly recommended that you test several of the exhibits if you have complicated naming structures for the exhibits, as the batch rename process is not an operation that can be undone.
+With an exhibit selected, clicking the Preview New ID button will generate an example of what the new Exhibit IDs will look like.  It is highly recommended that you test several of the exhibits if you have complicated naming structures for the exhibits, as the batch rename process is not an operation that can be undone.
 
-Once statisifed with the search and replace parameters, click the Apply button.  A pop-up winidow will indicate when the operation is complete.  The resulting Exhibit IDs should now look like this:
+Once statisifed with the search and replace parameters, click the Apply button.  A pop-up window will indicate when the operation is complete.  The resulting Exhibit IDs should now look like this:
 
 > ![Screen Grab - Remove Everythying After](../../assets/id_editing_assets/idedit_05_result.png)

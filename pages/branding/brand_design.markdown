@@ -8,14 +8,13 @@ parent: Branding
 
 ### Brand Design
 
-The brand editor can be accessed via the Menu bar by selecting Brand Editor
+You can access the Brand editor via the Menu bar by selecting Brand Editor
 
 > ![Screen Grab - Brand Editor Menu Bar](../../assets/user_interface_assets/UserInterface_Menu_06_BrandEditor.png)
 
-
 #### __<u>Placement</u>__
 
-ExhbitMarker&trade; allows the user to select one of six zones to place the brand when applying to document pages.
+ExhibitMarker&trade; allows the user to select one of six zones to place the brand when applying to document pages.
 
 |Top Left | Top Center | Top Right |
 |:-------------|:-----:|-----------:|
@@ -23,7 +22,7 @@ ExhbitMarker&trade; allows the user to select one of six zones to place the bran
 
 > ![Screen Grab - Brand Zone Selection](../../assets/brand_design_assets/brand_design_01_BrandZonePosition.png)
 
-The text is automatically adjusted for left or right justification, or centered, depending on the brand location selected.  There is also an option to increase the horizontal and Vertical padding for the brand.
+ExhibitMarker&trade; automatically adjusts the text for left or right justification, or centered, depending on the Brand Location selected.  There is also an option to increase the horizontal and vertical padding for the brand.
 
  > ![Screen Grab - Brand Position Padding](../../assets/brand_design_assets/brand_design_01_BrandPadding.png)
 
@@ -41,28 +40,28 @@ All keywords must appear in ALL-CAPS in order for ExhibitMarker&trade; to identi
  - TOTALPAGES: Total number of physical pages in the document
  - FILENAME: Original file name value present in the PDF Files list for the document
 
-As the brand text is changed, the Example section of the Brand design tab will automatically update to reflect the currently selected options.
+As you change the brand text, the Example section of the Brand design tab will automatically update to reflect the currently selected options.
 
 > ![Animation - Selection of different default Brands](../../assets/brand_design_assets/brand_design_04_BrandOptionSelection.gif)
 
 #### __<u>Additional Formatting</u>__
 
-After the text of the brand has been set, the font, font size and color of the brand can be changed.
+After the text of the brand has been set, you can change the Font, Weight, Size, and color of the brand.
 
 ExhibitMarker&trade; automatically adds space to the top or bottom of the page to be branded (based on selected brand position) so that none of the text will overlap anything on the original document.  The amount of space added is determined by the size of the brand text, based on the content and font size.
 
-There are instances where the document to be branded is oversized, or undersized, and the selected font size will not work well.  For each page that is branded, ExhibitMarker&trade; adjusts the size of the brand for these pages based on a percentage increase or decrease that coencides with the difference of the overall page size from a standard 8.5 x 11 page.
+There are instances where the document is oversized, or undersized, and the selected font size will not work well.  For each page that is branded, ExhibitMarker&trade; adjusts the size of the brand for these pages based on a percentage increase or decrease that coincides with the difference of the overall page size from a standard 8.5 x 11 page.
 
-Zero padding may also be added to the page number of the brand, if it appears in the selected brand text, based on the value selected.
+You may also add zero padding to the page number of the brand.
 
 > ![Animation - Add zero padding to page numbers](../../assets/brand_design_assets/brand_design_07_ZeroPadPageNumber.gif)
 
 #### __<u>Save Brand Design</u>__
 
-During the design phase, anytime that the design of the brand is altered the Save button changes to red to indicate that the design needs to be saved.  The changes can be saved with this button, and the currently selected brand will be overwritten with the new design.
+During the design phase, anytime that you alter the design of the brand the Save button changes to red to indicate that the design needs to be saved.  When clicked, the currently selected brand design will be overwritten with the new design.
 
 > ![Screen Grab - Save Brand Design Indicator](../../assets/brand_design_assets/brand_design_05_SaveBrand.png)
 
-Alternatively, the current brand design can be saved with a new name by clicking the Save As button just to the right of the Save buttn.  This will bring up a dialog box so that a new brand  name can be entered and the design saved.
+Alternatively, the current brand design can be saved with a new name by clicking the __Save As__ button just to the right of the Save button.  This will bring up a dialog box so that you can enter a new brand name, and save the design.
 
 > ![Screen Grab - Save Brand Design As](../../assets/brand_design_assets/brand_design_06_SaveAsNewBrand.png)

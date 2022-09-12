@@ -8,7 +8,7 @@ parent: Working With Files
 
 ### Unmarking Files
 
-When a PDF files is processed via Stamping or Branding, the entry in the PDF Files window is updated to show a checkmark in the respective Stamp and/or Brand column, and the entire entry is highlighted.
+When a PDF file is processed via Stamping or Branding, the entry in the PDF Files window is updated to show a checkmark in the respective Stamp and/or Brand column, and the entire entry is highlighted.
 
 > ![Screen Grab - PDF File List with Checkmarks](../../assets/working_with_files_assets/working_with_files_unmarking_01_listofmarkeddocs.png)
 
@@ -20,6 +20,6 @@ You will be prompted to confirm the operation and ExhibitMarker&trade; will upda
 
 > > ![Screen Grab - Confirm Revert to Original](../../assets/working_with_files_assets/working_with_files_unmarking_03_confirmunmark.png)
 
-If the original files are no longer at that location the entries will be updated with an exclamation point and yellow highlighting to indicate that they are missing.  See [Locating Missing Files](working_with_files_locatingmissing.markdown) to resolve this issue.
+If the original files are no longer at that location, ExhibitMarker&trade; will updatte the entries with an exclamation point and yellow highlighting to indicate that they are missing.  See [Locating Missing Files](working_with_files_locatingmissing.markdown) to resolve this issue.
 
 > ![Screen Grab - Missing File Indicator](../../assets/working_with_files_assets/working_with_files_locatingmissing_01_lostpdfs.png)

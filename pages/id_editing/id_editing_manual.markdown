@@ -8,7 +8,7 @@ parent: ID Editing
 
 ### Manual ID Editing
 
-Right-click a selected exhbit in the PDF List to bring up the right-click menu.
+Right-click a selected exhibit in the PDF List to bring up the right-click menu.
 
 > ![Screen Grab - Right-Click menu of PDF List](../../assets/id_editing_assets/idEdit_01_rightClickMenu.png)
 

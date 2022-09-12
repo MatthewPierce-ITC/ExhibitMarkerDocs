@@ -31,7 +31,7 @@ The ExhibitMarker&trade; user interface is broken up in to four major sections: 
 
 > The Import gives you options to [import](../working_with_files/working_with_files_adding.markdown#folder-selection) PDF Documents from a single selected folder or the selected folder and all of its sub-folders.
 
-> Additionally from this menu option, you can import new [Stamp](../stamping/stamping.markdown), [Brand](../branding/branding.markdown), or [Exhibit ID Filter](../id_editing/id_editing_manual.markdown) desgin files to be used with your project.
+> Additionally from this menu option, you can import new [Stamp](../stamping/stamping.markdown), [Brand](../branding/branding.markdown), or [Exhibit ID Filter](../id_editing/id_editing_manual.markdown) design files to be used with your project.
 
 > #### __Export__
 
@@ -45,7 +45,7 @@ The ExhibitMarker&trade; user interface is broken up in to four major sections: 
 
 > ![Screen Grab - View Menu](../../assets/user_interface_assets/UserInterface_Menu_04_View.png)
 
->  Selecting any of these options will display the corrosponding Editor panel.
+>  Selecting any of these options will display the corresponding Editor panel.
 
 > #### __Stamp Editor__
 
@@ -65,7 +65,7 @@ The ExhibitMarker&trade; user interface is broken up in to four major sections: 
 
 >  Each of these options can be turned on or off and display a checkmark to indicate if they are active.
 
->  The [Perserve Folder Structure](../working_with_files/working_with_files_destination_folder.markdown#preserve-folder-structure-option) and [Force Overwrite](../working_with_files/working_with_files_destination_folder.markdown#force-overwrite-option) are special features that impact the [Destination Folder](../working_with_files/working_with_files_destination_folder.markdown) of the marked exhibits.
+>  The [Preserve Folder Structure](../working_with_files/working_with_files_destination_folder.markdown#preserve-folder-structure-option) and [Force Overwrite](../working_with_files/working_with_files_destination_folder.markdown#force-overwrite-option) are special features that impact the [Destination Folder](../working_with_files/working_with_files_destination_folder.markdown) of the marked exhibits.
 
 > #### __Stamp Mode__
 
@@ -93,4 +93,4 @@ The ExhibitMarker&trade; user interface is broken up in to four major sections: 
 
 > ![Screen Grab - Editor Panels](../../assets/user_interface_assets/userInterface_13_editorPanels.png)
 
-> When not activly editing, these panels can be closed to give you more room to view and stamp the loaded documents.
+> When not actively editing, these panels can be closed to give you more room to view and stamp the loaded documents.

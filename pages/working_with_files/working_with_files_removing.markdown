@@ -12,7 +12,7 @@ If there are PDFs in the collection that need to be removed, this can be done vi
 
 > ![Screen Grab - Clear All right-click menu TEST](../../assets/working_with_files_assets/working_with_files_removing_01_clearall.png)
 
-When this item is selected a pop-up warning will appear alerting the user that this operation cannot be undone.  Once files are removed from the project they must be manually reloaded.  This will also remove their current Stamped or Branded status in the PDF File list.
+When you select this item, a pop-up warning will appear alerting you that this operation cannot be undone.  Once you have removed the files from the project they must be manually reloaded.  This will also remove their current Stamped or Branded status in the PDF File list.
 
 > ![Screen Grab - Clear PDF Warning](../../assets/working_with_files_assets/working_with_files_removing_02_clearallwarning.png)
 

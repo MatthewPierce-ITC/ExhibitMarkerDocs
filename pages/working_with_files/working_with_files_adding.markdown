@@ -8,7 +8,7 @@ parent: Working With Files
 
 ### Adding Files
 
-PDF files for marking may be loaded into ExhibitMarker&trade; either by [drag-and-drop](#drag-and-drop), or [folder selection](#folder-selection) via Import from the menu toolbar. 
+You may load PDF files for marking into ExhibitMarker&trade; either by [drag-and-drop](#drag-and-drop), or [folder selection](#folder-selection) via Import from the menu toolbar. 
 
 #### __<u>Drag-and-Drop</u>__
 

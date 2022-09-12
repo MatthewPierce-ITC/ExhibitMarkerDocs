@@ -7,7 +7,7 @@ nav_order: 6
 
 ### Project Editor
 
-The Project Editor can be accessed via the menu Project > Project Editor, or by clicking on the Project tab while the editor panels are visible. 
+You can access the Project Editor via Project > Project Editor, or by clicking on the Project tab while the editor panels are visible. 
 
 > ![Screen Grab - Project Menu](../assets/project_editor_assets/projectEditor_00_fileMenu.png)
 
@@ -15,7 +15,7 @@ This will display the Project tab contents, where you can see the current Case N
 
 > ![Screen Grab - Project Editor tab](../assets/project_editor_assets/projectEditor_01_entireWindow.png)
 
-The Project Editor allows you to modify several items that are unique to your case database.  First, the Project Name and Matter can be updated.
+The Project Editor allows you to modify several items that are unique to your case database.  First, the Project Name and Matter.
 
 > ![Screen Grab - Change Project Name](../assets/project_editor_assets/projectEditor_02_updateNameAndID.png)
 

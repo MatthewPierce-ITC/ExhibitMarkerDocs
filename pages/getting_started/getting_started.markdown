@@ -11,4 +11,4 @@ has_toc: false
 
 Welcome to ExhibitMarker&trade;!
 
-Begin by taking a tour of the [User Interface](user_interface.markdown) and then head over to [Project Setup](project_setup.markdown) to begin working with PDFs, designing [Stamps](../stamping/stamping.markdown), [Brands](../branding/branding.markdown), and marking your exhibits.
+Begin by taking a tour of the [User Interface](user_interface.markdown) and then head over to [Project Setup](project_setup.markdown) to start working with PDFs, designing [Stamps](../stamping/stamping.markdown), [Brands](../branding/branding.markdown), and marking your exhibits.

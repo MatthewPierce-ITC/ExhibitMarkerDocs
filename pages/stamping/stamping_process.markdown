@@ -28,22 +28,21 @@ In order to begin stamping, you must switch on Stamp Mode via the toggle at the 
 
 > ![Screen Grab - Stamp Mode Active](../../assets/stamp_application_assets/stampApplication_04_StampModeActive.png)
 
-
 #### __<u>Applying a Stamp</u>__
 
-While in Stamp Mode, whenever you move the mouse over the document, a semi-transparent version of the stamp to be applied will replace the pointer.  This allows you to ensure that the stamp is not placed on top of existing text or graphics.  When the stamp is in the desired location, click the left mouse button to place the stamp.  It will then become opaque and the mouse pointer will return to an arrow.
+While in Stamp Mode, whenever you move the mouse over the document, a semi-transparent version of the stamp to be applied will replace the pointer.  This allows you to ensure that the stamp is not placed on top of existing text or graphics.  When the stamp is in the desired location, click the left mouse button to place the stamp.  It will then become opaque, and the mouse pointer will return to an arrow.
 
 > ![Animation - Apply Stamp](../../assets/stamp_application_assets/stampApplication_05_ApplyStamp.gif)
 
 #### __<u>Reposition a Stamp</u>__
 
-If you placed the stamp in the incorrect position, you can simply click and drag it to a new location.  Once in the new position, click outside  of the stamp boarder and it will affix at the new position.
+If you place the stamp in the incorrect position, you can simply click and drag it to a new location.  Once in the new position, click outside  of the stamp boarder and it will affix at the new position.
 
 > ![Animation - Move Placed Stamp](../../assets/stamp_application_assets/stampApplication_06_MovePlacedStamp.gif)
 
 #### __<u>Resize a Stamp</u>__
 
-In cases where the document is oversized, or undersized, the stamp may be appar out of porportion, too large or too small.  In other instances, the amount of white space available for stamp placement may be minimal.  Simply select the stamp again and grab one of the corner handles with the mouse by holding down the left mouse button.  You can now resize the stamp by dragging the mouse pointer.
+In cases where the document is oversized, or undersized, the stamp may be apper out of proportion, too large or too small.  In other instances, the amount of white space available for stamp placement may be minimal.  Simply select the stamp again and grab one of the corner handles with the mouse by holding down the left mouse button.  You can now resize the stamp by dragging the mouse pointer.
 
 > ![Animation - Resize Placed Stamp](../../assets/stamp_application_assets/stampApplication_07_ResizePlacedStamp.gif)
 
