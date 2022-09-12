@@ -15,7 +15,6 @@ This will display the Project tab contents, where you can see the current Case N
 
 > ![Screen Grab - Project Editor tab](../assets/project_editor_assets/projectEditor_01_entireWindow.png)
 
-
 The Project Editor allows you to modify several items that are unique to your case database.  First, the Project Name and Matter can be updated.
 
 > ![Screen Grab - Change Project Name](../assets/project_editor_assets/projectEditor_02_updateNameAndID.png)
@@ -26,7 +25,7 @@ When you click the Update Name and ID button, the title bar of ExhibitMarker&tra
 
 However, this will not change the name of the project database that you assigned during [Project Setup](getting_started/project_setup.markdown).  In order to change the name of the saved .db3 file, you must first exit ExhibitMarker&trade; and then manually rename the file.
 
-The next section of the Project panel contains a listing of all the design files that you have in the project for [Stamps](), [Brands](), and [Exhibit ID Filters]().  There are times if there are design files that you no longer wish to have associated with this project, you can right-click any of them and selected Delete.
+The next section of the Project panel contains a listing of all the design files that you have in the project for [Stamps](stamping/stamping.markdown), [Brands](branding/branding.markdown), and [Exhibit ID Filters](id_editing/id_editing.markdown).  There are times if there are design files that you no longer wish to have associated with this project, you can right-click any of them and selected Delete.
 
 > ![Screen Grab - Delete Design File](../assets/project_editor_assets/projectEditor_04_deleteStamp.png)
 
