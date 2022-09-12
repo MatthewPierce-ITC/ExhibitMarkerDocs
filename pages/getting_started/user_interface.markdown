@@ -8,14 +8,13 @@ parent: Getting Started
 
 ###  User Interface 
 
-The ExhibitMarker&trade; user interface is broken up in to four major sections: [Menu bar](#menu-bar), [PDF File List](#pdf-file-list), [PDF Viewer](#pdf-viewer), and the [Editor Panes](#editor-panes).
+The ExhibitMarker&trade; user interface is broken up in to four major sections: [Menu bar](#menu-bar), [PDF File List](#pdf-file-list), [PDF Viewer](#pdf-viewer), and the [Editor Panes](#editor-panels).
 
 > ![Screen grab of Main User Interface](../../assets/user_interface_assets/UserInterface_05_InitialView.png)
 
 #### __<u>Menu Bar</u>__
 
 > #### __Project__
-
 > ![Screen Grab - Project Menu](../../assets/user_interface_assets/UserInterface_Menu_01_Project.png)
 
 > The Project Menu gives you options to create a new case, or open an existing case.
@@ -44,27 +43,29 @@ The ExhibitMarker&trade; user interface is broken up in to four major sections: 
 
 > #### __View__
 
-> ![Screen Grab - ](../../assets/user_interface_assets/UserInterface_Menu_04_View.png)
+> ![Screen Grab - View Menu](../../assets/user_interface_assets/UserInterface_Menu_04_View.png)
 
 >  Selecting any of these options will display the corrosponding Editor panel.
 
 > #### __Stamp Editor__
 
-> ![Screen Grab - ](../../assets/user_interface_assets/UserInterface_Menu_05_StampEditor.png)
+> ![Screen Grab - Stamp Editor ](../../assets/user_interface_assets/UserInterface_Menu_05_StampEditor.png)
 
 >  This is a shortcut to display the Stamp Editor panel.
 
 > #### __Brand Editor__
 
-> ![Screen Grab - ](../../assets/user_interface_assets/UserInterface_Menu_06_BrandEditor.png)
+> ![Screen Grab - Brand Editor](../../assets/user_interface_assets/UserInterface_Menu_06_BrandEditor.png)
 
-This is a shortcut to display the Brand Editor panel.
+ > This is a shortcut to display the Brand Editor panel.
 
 > #### __Settings__
 
-> ![Screen Grab - ](../../assets/user_interface_assets/UserInterface_Menu_07_Settings.png)
+> ![Screen Grab - Settings](../../assets/working_with_files_assets/working_with_files_ForceOverwrite.png)
 
 >  Each of these options can be turned on or off and display a checkmark to indicate if they are active.
+
+>  The [Perserve Folder Structure](../working_with_files/working_with_files_destination_folder.markdown#preserve-folder-structure-option) and [Force Overwrite](../working_with_files/working_with_files_destination_folder.markdown#force-overwrite-option) are special features that impact the [Destination Folder](../working_with_files/working_with_files_destination_folder.markdown) of the marked exhibits.
 
 > #### __Stamp Mode__
 
