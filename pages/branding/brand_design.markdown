@@ -13,7 +13,7 @@ The brand editor can be accessed via the Menu bar by selecting Brand Editor
 > ![Screen Grab - Brand Editor Menu Bar](../../assets/user_interface_assets/UserInterface_Menu_06_BrandEditor.png)
 
 
-#### <u><b>Placement</b></u>
+#### __<u>Placement</u>__
 
 ExhbitMarker&trade; allows the user to select one of six zones to place the brand when applying to document pages.
 
@@ -27,7 +27,7 @@ The text is automatically adjusted for left or right justification, or centered,
 
  > ![Screen Grab - Brand Position Padding](../../assets/brand_design_assets/brand_design_01_BrandPadding.png)
 
-#### <u><b>Keywords</b></u>
+#### __<u>Keywords</u>__
 
 The text of the brand has both static and dynamic elements, depending on the keywords that you select during the design phase.  There are several stock brands available with the drop-down selection box.
 
@@ -45,7 +45,7 @@ As the brand text is changed, the Example section of the Brand design tab will a
 
 > ![Animation - Selection of different default Brands](../../assets/brand_design_assets/brand_design_04_BrandOptionSelection.gif)
 
-#### <u><b>Additional Formatting</b></u>
+#### __<u>Additional Formatting</u>__
 
 After the text of the brand has been set, the font, font size and color of the brand can be changed.
 
@@ -57,7 +57,7 @@ Zero padding may also be added to the page number of the brand, if it appears in
 
 > ![Animation - Add zero padding to page numbers](../../assets/brand_design_assets/brand_design_07_ZeroPadPageNumber.gif)
 
-#### <u><b>Save Brand Design</b></u>
+#### __<u>Save Brand Design</u>__
 
 During the design phase, anytime that the design of the brand is altered the Save button changes to red to indicate that the design needs to be saved.  The changes can be saved with this button, and the currently selected brand will be overwritten with the new design.
 

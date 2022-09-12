@@ -6,9 +6,11 @@ nav_order: 1
 parent: Working With Files
 ---
 
-PDF files for marking may be loaded into ExhibitMarker&trade; either by drag-and-drop, or folder selection via Import from the menu toolbar. 
+### Adding Files
 
-### Drag-and-Drop
+PDF files for marking may be loaded into ExhibitMarker&trade; either by [drag-and-drop](#drag-and-drop), or [folder selection](#folder-selection) via Import from the menu toolbar. 
+
+#### __<u>Drag-and-Drop</u>__
 
 The drag-and-drop method is generally the easiest way to load files into ExhibitMarker&trade; for processing.  As seen below, select the PDF files to add and drag them into the "PDF Files" section of the user interface.  The application will then process each file individually, calculating pages as it loads.
 
@@ -16,7 +18,7 @@ You may cancel the operation at any time during the loading process.  Once the p
 
 > ![Animated Gif drag-and-drop file loading](../../assets/working_with_files_assets/working_with_files_02_DragAndDropFiles.gif)
 
-### Folder Selection
+#### __<u>Folder Selection</u>__
 
 To add files via the folder selection method, click View on the menu bar and select Import Folder.
 

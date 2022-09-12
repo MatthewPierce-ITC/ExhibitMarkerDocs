@@ -8,7 +8,7 @@ parent: Working With Files
 
 ### Destination Folder
 
-#### __Selecting a Destination Folder__
+#### __<u>Selecting a Destination Folder</u>__
 
 As soon as documents are added to your new project, ExhbitMarker&trade; will prompt you to select a Destination Folder for the marked exhibits.  It is highly suggested that you select a folder other than the source, as this will enable you to undo stamps and brands should an error during the process be made.
 
@@ -16,7 +16,7 @@ As soon as documents are added to your new project, ExhbitMarker&trade; will pro
 
 There are two options available via Settings that impact the Destination folder selection.  The first is [Preserve Folder Structure](#preserve-folder-structure-option), and the second is [Force Overwrite](#force-overwrite-option).
 
-#### __Preserve Folder Structure Option__
+#### __<u>Preserve Folder Structure Option</u>__
 
 This option is very useful if you have a population of documents that have been broken up into folders for orginizational purposes.
 
@@ -42,7 +42,7 @@ c:\CaseMaterials\Documents\Marked\CaseName\Witnesses\Smith_John\Documents
 
 It is very important that you pay close attention to the file paths that will be generated as a result of this option.  Windows has a limit on the number of characters allowed (260) for any given path.  To assist with this, ExhibitMarker&trade; will alert the user if the specified output path using this option will exceed this limit.
 
-#### __Force Overwrite Option__
+#### __<u>Force Overwrite Option</u>__
 
 > ![Screen Grab - Force Overwrite](../../assets/working_with_files_assets/working_with_files_ForceOverwrite.png)
 
