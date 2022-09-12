@@ -26,7 +26,7 @@ The ExhibitMarker&trade; user interface is broken up in to four major sections: 
 
 > ![Screen Grab - ](../../assets/user_interface_assets/UserInterface_Menu_02_Import.png)
 
-> The Import gives you options to [import](../working_with_files/working_with_files_adding.markdown#ufolder-selectionu) PDF Documents from a single selected folder or the selected folder and all of its sub-folders.
+> The Import gives you options to [import](../working_with_files/working_with_files_adding.markdown#folder-selection) PDF Documents from a single selected folder or the selected folder and all of its sub-folders.
 
 > Additionally from this menu option, you can import new [Stamp](../stamping/stamping.markdown), [Brand](../branding/branding.markdown), or [Exhibit ID Filter](../id_editing/id_editing_manual.markdown) desgin files to be used with your project.
 
