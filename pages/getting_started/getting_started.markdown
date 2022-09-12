@@ -4,9 +4,11 @@ title: Getting Started
 permalink: /gettingstarted/
 nav_order: 1
 has_children: true
-has_toc: true
+has_toc: false
 ---
 
 ### Start Here!
 
-Now that you have had a tour of the user interface, you hare ready to go!
+Welcome to ExhibitMarker&trade;!
+
+Begin by taking a tour of the [User Interface](user_interface.markdown) and then head over to [Project Setup](project_setup.markdown) to begin working with PDFs, designing [Stamps](../stamping/stamping.markdown), [Brands](../branding/branding.markdown), and marking your exhibits.
