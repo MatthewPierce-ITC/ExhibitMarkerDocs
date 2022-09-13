@@ -8,7 +8,7 @@ parent: Getting Started
 
 ###  User Interface 
 
-The ExhibitMarker&trade; user interface is broken up in to four major sections: [Menu bar](#menu-bar), [PDF File List](#pdf-file-list), [PDF Viewer](#pdf-viewer), and the [Editor Panes](#editor-panels).
+The ExhibitMarker&trade; user interface is broken up in to four major sections: [Menu bar](#menu-bar), [PDF File List](#pdf-file-list), [PDF Viewer](#pdf-viewer), and the [Editor Panels](#editor-panels).
 
 > ![Screen grab of Main User Interface](../../assets/user_interface_assets/UserInterface_05_InitialView.png)
 
@@ -37,7 +37,7 @@ The ExhibitMarker&trade; user interface is broken up in to four major sections: 
 
 > ![Screen Grab - ](../../assets/user_interface_assets/UserInterface_Menu_03_Export.png)
 
-> Any [Stamp](../stamping/stamping.markdown), [Brand](../branding/branding.markdown), or [Exhibit ID Filter](../id_editing/id_editing_manual.markdown) can be exported by first selecting the design file you wish to export, then clicking one of these options.  Only the design currently selected in the editor panes will be exported.
+> Any [Stamp](../stamping/stamping.markdown), [Brand](../branding/branding.markdown), or [Exhibit ID Filter](../id_editing/id_editing_manual.markdown) can be exported by first selecting the design file you wish to export, then clicking one of these options.  Only the design currently selected in the editor panels will be exported.
 
 > In the [Settings](#settings) menu, you can set the marked PDFs to be saved as their original file name or the Exhibit ID.  If you need to create a set that has the opposite requirement for naming, you can use these features to save the selected PDFs in a new location with the desired name.
 
