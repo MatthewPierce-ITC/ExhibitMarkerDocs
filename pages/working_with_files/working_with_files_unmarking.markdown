@@ -20,6 +20,6 @@ You will be prompted to confirm the operation and ExhibitMarker&trade; will upda
 
 > > ![Screen Grab - Confirm Revert to Original](../../assets/working_with_files_assets/working_with_files_unmarking_03_confirmunmark.png)
 
-If the original files are no longer at that location, ExhibitMarker&trade; will updatte the entries with an exclamation point and yellow highlighting to indicate that they are missing.  See [Locating Missing Files](working_with_files_locatingmissing.markdown) to resolve this issue.
+If the original files are no longer at that location, ExhibitMarker&trade; will update the entries with an exclamation point and yellow highlighting to indicate that they are missing.  See [Locating Missing Files](working_with_files_locatingmissing.markdown) to resolve this issue.
 
 > ![Screen Grab - Missing File Indicator](../../assets/working_with_files_assets/working_with_files_locatingmissing_01_lostpdfs.png)

@@ -46,7 +46,7 @@ You can change the Text elements by selecting the element and editing the conten
 
 > ![Screen Grab - Stamp Design Tab](../../assets/stamp_design_assets/editStampDesign_08_editTextElement.gif)
 
-The ExhibitID element is a placeholder.  ExhibitMarker&trade; dynamically updates its content each time a new document is selected for stamping with the [Exhibit ID](../id_editing/id_editing.markdown) of the document.  We suggeste that you enter a value that represents the longest ID in your document population, then modify the Font Size of the element to achieve the desired look of the stamp.
+The ExhibitID element is a placeholder.  ExhibitMarker&trade; dynamically updates its content each time a new document is selected for stamping with the [Exhibit ID](../id_editing/id_editing.markdown) of the document.  We suggest that you enter a value that represents the longest ID in your document population, then modify the Font Size of the element to achieve the desired look of the stamp.
 
 > ![Screen Grab - Stamp Design Tab](../../assets/stamp_design_assets/editStampDesign_10_editExhibitIDPlaceholder.png)
 
