@@ -46,9 +46,9 @@ As you change the brand text, the Example section of the Brand design tab will a
 
 #### __<u>Additional Formatting</u>__
 
-After the text of the brand has been set, you can change the Font, Weight, Size, and color of the brand.
+After the text of the brand has been set, you can change the Font, Weight, Size, and Color of the brand.
 
-ExhibitMarker&trade; automatically adds space to the top or bottom of the page to be branded (based on selected brand position) so that none of the text will overlap anything on the original document.  The amount of space added is determined by the size of the brand text, based on the content and font size.
+ExhibitMarker&trade; automatically adds space to the top or bottom of the page to be branded (based on selected brand position) so that none of the text will overlap anything on the original document.  The amount of added space is derived from the height of the brand text, based on the selected font size.
 
 There are instances where the document is oversized, or undersized, and the selected font size will not work well.  For each page that is branded, ExhibitMarker&trade; adjusts the size of the brand for these pages based on a percentage increase or decrease that coincides with the difference of the overall page size from a standard 8.5 x 11 page.
 
