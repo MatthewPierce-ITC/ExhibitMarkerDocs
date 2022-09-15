@@ -24,7 +24,7 @@ US Ex. 0004 - Microsoft's Share of the Browser Market
 US Ex. 0005 - Microsoft's Share of the Browser Market Compared to Netscape's Share
 ```
 
-For the Action option, select **Remove Everything After, including search text**
+For the Action option, select **Remove Everything After, including search text**.
 
 > ![Screen Grab - Remove Everything After](../../assets/id_editing_assets/idedit_04_removeeverythingincluding.png)
 

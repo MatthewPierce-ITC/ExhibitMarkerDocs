@@ -10,4 +10,4 @@ has_toc: true
 
 ### Working With Files
 
-This section outlines the various ways that PDF documents may be added, removed, and modified with ExhibitMarker&trade;
+This section outlines the various ways that PDF documents may be added, removed, and modified with ExhibitMarker&trade;.
