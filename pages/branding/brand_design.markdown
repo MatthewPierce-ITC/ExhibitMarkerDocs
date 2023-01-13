@@ -22,14 +22,13 @@ ExhibitMarker&trade; allows the user to select one of six zones to place the bra
 
 > ![Screen Grab - Brand Zone Selection](../../assets/brand_design_assets/brand_design_01_BrandZonePosition.png)
 
-While the Every Page optoin is generally the method of choice, other options are also available.  You may choose to have the brand only appear on the first page of every document, or start on the second page and brand every subsequent page.
+While the Every Page option is generally the method of choice, other options are also available.  You may choose to have the brand only appear on the first page of every document, or start on the second page and brand every subsequent page.
 
  > ![Screen Grab - Brand Position Padding](../../assets/brand_design_assets/brand_design_01a_BrandOnOptions.png)
 
 ExhibitMarker&trade; automatically adjusts the text for left or right justification, or centered, depending on the Brand Location selected.  There is also an option to increase the horizontal and vertical padding for the brand.
 
  > ![Screen Grab - Brand Position Padding](../../assets/brand_design_assets/brand_design_02_BrandPadding.png)
-
 
 #### __<u>Keywords</u>__
 
