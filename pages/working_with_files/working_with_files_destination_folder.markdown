@@ -8,6 +8,8 @@ parent: Working With Files
 
 ### Destination Folder
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/823047327?h=6a4358a9a3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="5 - New Destination for Stamped"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 #### __<u>Selecting a Destination Folder</u>__
 
 As soon as you add documents to your new project, ExhbitMarker&trade; will prompt you to select a Destination Folder for the marked exhibits.  It is highly suggested that you select a folder other than the source, as this will enable you to undo stamps and brands should you make an error during the marking process.

@@ -8,6 +8,8 @@ parent: Stamping
 
 ### Edit a Stamp Design
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/823046938?h=4ccfc51572&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="4 - Stamp Design"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 The default stamp design contains multiple elements, all of which are customizable.  The color, size, position, and content can be modified with with a few simple mouse clicks.
 
 The StampBase element is selected by default, and this allows you to change the fill and border color of the stamp, the shape of the stamp corners (square or rounded), the border thickness, and the overall size.
