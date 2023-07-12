@@ -12,7 +12,7 @@ parent: Working With Files
 
 #### __<u>Selecting a Destination Folder</u>__
 
-As soon as you add documents to your new project, ExhbitMarker&trade; will prompt you to select a Destination Folder for the marked exhibits.  It is highly suggested that you select a folder other than the source, as this will enable you to undo stamps and brands should you make an error during the marking process.
+As soon as you add documents to your new project, ExhibitMarker&trade; will prompt you to select a Destination Folder for the marked exhibits.  It is highly suggested that you select a folder other than the source folder, as this will enable you to undo stamps and brands should you make an error during the marking process.
 
 > ![Animation - Select Destination Folder](../../assets/working_with_files_assets/working_with_files_01_SelectDestination.gif)
 

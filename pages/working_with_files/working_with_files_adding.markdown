@@ -20,7 +20,7 @@ You may cancel the operation at any time during the loading process.  Once the p
 
 #### __<u>Folder Selection</u>__
 
-To add files via the folder selection method, click View on the menu bar and select Import Folder.
+To add files via the folder selection method, click View on the menu bar and select Import PDF Folder.
 
 > ![Screen Grab - Menu bar folder import](../../assets/working_with_files_assets/working_with_files_05_importfolder.png)
 

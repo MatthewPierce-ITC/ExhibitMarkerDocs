@@ -12,7 +12,7 @@ When a PDF file is processed via Stamping or Branding, the entry in the PDF File
 
 > ![Screen Grab - PDF File List with Checkmarks](../../assets/working_with_files_assets/working_with_files_unmarking_01_listofmarkeddocs.png)
 
-There are times when you may need to re-stamp or re-brand a PDF files.  To start the process, select the file or files in the PDF Files list, then hover over the selection and right-click on the selected items.  This will bring up "Revert Selected to Original" in the right-click menu.
+There are times when you may need to re-stamp or re-brand a PDF.  To start the process, select the file or files in the PDF Files list, then hover over the selection and right-click on the selected items.  This will bring up "Revert Selected to Original" in the right-click menu.
 
 > ![Animation - Revert to Original operation](../../assets/working_with_files_assets/working_with_files_unmarking_02_unmarkoperation.gif)
 
